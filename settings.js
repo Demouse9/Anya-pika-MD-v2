@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.botname = "Queen Anya" 
-global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
+global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵  \\
 global.author = "𝙋𝙄𝙆𝘼"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
@@ -12,22 +12,22 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "🍀👑The ordinary student🔥❤️"   // Owner name //        
+global.ownernumber = ['693593103'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.continent = "Europe" // your continent name 
+global.region = "Belgium" // your country name
+global.state = "Bruxelles" // your state name
+global.district = "" // your district name
+global.timezone = "" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
 global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','917355******']  // Co - Owners //
+global.premium = ['' ]// available soon
+global.sudo = ['']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
@@ -65,7 +65,7 @@ global.mess = {
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
-    wait: "I'm progressing your command baby❤️, Please wait......",
+    wait: "I'm progressing your command , Please wait......",
     linkm: 'Abey where is the link...?',
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
     sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
